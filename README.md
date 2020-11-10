@@ -9,6 +9,10 @@ We were tasked with summarizing each unique stock ticker with the **yearly $ cha
 
 In addition, a bonus assignment was offered to identify the stock with the **largest % increase, largest % decrease and the highest total annual volume.** 
 
+## Personal Notes
+
+I started by getting the code to work on a single worksheet, and then was able to modify the code to loop through the final workbook and run on all three sheets with one activation of the script. The first time I ran the code however, I received an error that we were DIV/0 which is where the Percentage Change If loop came into play. 
+
 ## Pictures of Results
 
 ### 2016 Screenshot of summary table and bonus table: 
