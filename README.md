@@ -13,4 +13,4 @@ In addition, a bonus assignment was offered to identify the stock with the **lar
 
 ### 2016 Screenshot of summary table and bonus table: 
 
-![2016 Screenshot](/2016_pt_1.png)
+![2016 Screenshot](/2016-pt-1.png)
